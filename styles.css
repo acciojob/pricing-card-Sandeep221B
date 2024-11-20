@@ -1,20 +1,21 @@
 /*  your css code here. If applicable */
 
+
 body{
-	font:sans-serif;
-	margin:0;
-	padding:0;
+	font-style:oblique;
+	margin:20px;
+	padding:20px;
 	align-items:center;
 	justify-content:center;
-	height:100;
-	background-color:yellow;
+	height:500px;
+	background-color:lightblue;
 }
 .image{
 	width:100%;
 	padding:20px
-	background-color:red;
+	fill-box:100;
 	box-shadow: 0 2px 8px rgba(0,0,0,0.2);
-	border-radius:6px;
+	border-radius:60px;
 	text-align:center;
 }
 .text{
