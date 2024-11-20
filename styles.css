@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+
+body{
+	font:sans-serif;
+	margin:0;
+	padding:0;
+	align-items:center;
+	justify-content:center;
+	height:100;
+	background-color:yellow;
+}
+.image{
+	width:100%;
+	padding:20px
+	background-color:red;
+	box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+	border-radius:6px;
+	text-align:center;
+}
+.text{
+	text-align:center;
+	
+}
+
